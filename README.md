@@ -75,12 +75,26 @@ The platform helps tackle online toxicity, information overload, and blind spots
 
 ---
 
+Screenshots
+
+![Screenshot 2025-02-20 184829](https://github.com/user-attachments/assets/c713c013-4b09-41ea-8031-51ef6edc8644)
+
+![Screenshot 2025-02-20 184912](https://github.com/user-attachments/assets/b2e628ce-8f21-4c62-9e93-8a6c2656ce2e)
+
+![Screenshot (84)](https://github.com/user-attachments/assets/477151be-2ca4-4038-a7fe-9f94fdcec70e)
+
+![Screenshot (80)](https://github.com/user-attachments/assets/63506e17-9c7a-4382-a71c-f940cf33a005)
+
+![Screenshot (81)](https://github.com/user-attachments/assets/f9759a62-0239-407a-adbf-cb37deb7dd82)
+
+![Screenshot (82)](https://github.com/user-attachments/assets/92bfc518-d012-4e60-b4a9-66d6410843f2)
+
+
+![Screenshot (83)](https://github.com/user-attachments/assets/a420e492-dc83-4548-9072-a9038c218720)
 
 
 
-
-
-
+---
 
 ## 🌱 Future Scope
 
